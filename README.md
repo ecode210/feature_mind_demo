@@ -25,6 +25,7 @@ The app has dynamic theming and can be toggled from the home screen.
 - Step 1: Unzip the env.zip file attached to the email. There'll be 1 file (.env) and a folder (env) when uncompressed.
 - Step 2: Place the file (.env) in the root of the project, i.e if the project root is "/Users/mac/Documents/feature_mind_demo", place it directly in the folder called "feature_mind_demo".
 - Step 3: Place the folder (env) containing 2 files (env.dart and env.g.dart) in the lib folder in the root of the project.
+NOTE: After uncompressing the file, you might not see the .env file as it's a hidden file. Use Shift+Cmd+. command on MacOS to view hidden files, while for Windows, on File Explorer click through to the View tab and check the Hidden items box to view hidden files.
 
 ## Outro
 
